@@ -13,6 +13,10 @@ go to boardgame folder:
 new terminal -> npm run start/npm start
 
 ---------------- fix failing tests -----------
+server:
+npm run start
+
+tests:
 new terminal for tests:
 npx playwright install   
 npm run test:ui
