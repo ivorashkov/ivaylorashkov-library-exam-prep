@@ -72,6 +72,7 @@ Dashboard + new -> Web Service -> Build and deploy from a Git repository
 name: ivaylorashkov-boardgames
 branch: main
 runtimeL Node
+build command:npm install
 start command: node index.js / npm run start
 
 -> set auto-deploy to No
